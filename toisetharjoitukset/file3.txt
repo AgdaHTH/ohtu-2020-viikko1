@@ -1,1 +1,0 @@
-ja myös tässä kokeillaan git add -p komentoa
