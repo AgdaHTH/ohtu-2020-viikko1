@@ -114,7 +114,7 @@ public class VarastoTest {
     }
     
     @Test 
-    public void eiVoiOttaaEnemp‰‰KuinOn() {
+    public void eiVoiOttaaEnempaaKuinOn() {
         varasto.lisaaVarastoon(8);
         double saatuMaara = varasto.otaVarastosta(9);
         assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
