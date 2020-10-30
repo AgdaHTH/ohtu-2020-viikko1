@@ -132,7 +132,7 @@ public class VarastoTest {
     }
     
     @Test
-    public void oikeaString() {
+    public void oikeaStringEsitys() {
         varasto.lisaaVarastoon(8);
         String varastoString = varasto.toString();
     //"saldo = " + saldo + ", vielä tilaa " + paljonkoMahtuu()
