@@ -1,0 +1,1 @@
+kokeillaan git add -p komentoa
